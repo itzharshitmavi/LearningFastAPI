@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+passlib
+bcrypt
+python-multipart
+python-jose
+aiofiles
+requests # to deploy api install deta # currently unavailable
+pytest
+jinja2
+websockets
